@@ -6,7 +6,7 @@
 *Un projet client-serveur utilisant les Sockets Java pour le cours de LSI3.*
 
 **🧑‍💻 Auteur :** Imen Bouchelliga  
-**🎓 Classe :** LSI3 - Groupe 2
+**🎓 Classe :** LSI3 - Groupe 2-2
 
 ---
 
